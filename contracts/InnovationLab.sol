@@ -95,6 +95,9 @@ contract InnovationLab {
     // truffle(development)> value.toNumber()
 
     // Our case
+    // truffle develop
+    // compile
+    // migrate -reset
     // let instance = await InnovationLab.deployed()
     // let accounts = await web3.eth.getAccounts()
     // instance.doctorFirstLogin("Doctor",["dName1","dDob1","dId1"],{from:accounts[0]})
